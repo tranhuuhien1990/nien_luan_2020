@@ -2,12 +2,20 @@
 GVHD: Lâm Nhựt Khang
 
 Version checklist:
- - beautifulsoup4 4.9.3 
- - Python 3.7.4
+ 1. beautifulsoup4 4.9.3 
+ 2. Python 3.7.4
+ py -V
 
-Tool list:  
+Resource Ref:  
 1. https://pypi.org/project/beautifulsoup4/
-
+2. https://www.dataquest.io/blog/web-scraping-tutorial-python/
+3. https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 Target: 
 1. https://www.booking.com/
+
+Hướng dẫn cài đặt:
+1. Install Beautifulsoup4 in window (python 3.7)
+2. pip install beautifulsoup4pip 
+3. install lxmlpip 
+4. install html5lib
