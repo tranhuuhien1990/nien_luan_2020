@@ -19,3 +19,7 @@ Hướng dẫn cài đặt:
 2. pip install beautifulsoup4pip 
 3. install lxmlpip 
 4. install html5lib
+
+IDE and extension:
+1. VSCode
+2. VS Code Pretty Formatter
