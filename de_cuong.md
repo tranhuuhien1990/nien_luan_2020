@@ -4,7 +4,7 @@
 •	2.2.1. Đặc tả yêu cầu 
 -	Yêu cầu chức năng:
 + Hệ thống sử dụng python và beautifulsoup4
-+ Grab source từ website tartget được chỉ định.
++ Scraping source từ website tartget được chỉ định.
 + Output theo yêu cầu: Chỗ này vẫn chưa rõ?? có thể là lấy danh sách sản phẩm hiển thị ra
 
 -	Yêu cầu phi chức năng:
