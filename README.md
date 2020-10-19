@@ -25,5 +25,5 @@
 1. [www.booking.com](https://www.booking.com/)
 
 ##### IDE and extension:
-1.[PyCharm](https://www.jetbrains.com/pycharm/)
+1. [PyCharm](https://www.jetbrains.com/pycharm/)
 
