@@ -1,5 +1,5 @@
 # Niên Luận 2020 - Trần Hữu Hiền DC18V7K307
-GVHD: Lâm Nhựt Khang
+## GVHD: Lâm Nhựt Khang
 
 Version checklist:
  1. Python 3.7.4
