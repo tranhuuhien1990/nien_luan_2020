@@ -10,6 +10,9 @@
  ```
  py -m unittest discover -s bs4
  ```
+3. Requests 2.24.0
+
+4. Pandas (hỗ trợ phân tích)
 
 ##### Resource Ref:  
 1. [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
@@ -21,25 +24,7 @@
 ###### Target: 
 1. [www.booking.com](https://www.booking.com/)
 
-###### Hướng dẫn cài đặt:
-1. Python 3.7.x
-2. Beautifulsoup4 trên window (python 3.7)
-```
-pip install beautifulsoup4pip 
-```
-3. Pandas (hỗ trợ phân tích)
-
-4. Các thư viện hỗ trợ khác
-```
-install lxmlpip 
-install html5lib
-```
-
 ##### IDE and extension:
 1. VSCode
 2. VS Code Pretty Formatter
-
-
-
-
 
