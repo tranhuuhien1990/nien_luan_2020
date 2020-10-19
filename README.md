@@ -25,6 +25,5 @@
 1. [www.booking.com](https://www.booking.com/)
 
 ##### IDE and extension:
-1. VSCode
-2. VS Code Pretty Formatter
+1.[PyCharm](https://www.jetbrains.com/pycharm/)
 
