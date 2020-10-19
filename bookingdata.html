@@ -1,7 +1,4 @@
-from bs4 import BeautifulSoup
-import requests
-
-html_doc = """<!DOCTYPE html>
+<!DOCTYPE html>
 <!--
 You know you could be getting paid to poke around in our code?
 We're hiring designers and developers to work in Amsterdam:
@@ -2154,7 +2151,7 @@ https://www.booking.com/dealspage.html
            </span>
           </a>
           <button aria-label="Close Travel Offer banner" class="bui-banner__close js-close" data-bui-ref="banner-close" data-campaign-id="getaway20" data-et-click="
-   customGoal:deUCDBBbDOLREHGJdDBKDTOET:2   
+   customGoal:deUCDBBbDOLREHGJdDBKDTOET:2
 " id="btn_deals_index_banner_getaway20_close" title="Close Travel Offer banner" type="button">
            <svg aria-hidden="true" class="bk-icon -iconset-close" focusable="false" height="24" role="presentation" viewbox="0 0 128 128" width="24">
             <path d="M69.7 64l33.1-33.2a4 4 0 0 0-5.6-5.6L64 58.3 30.8 25.2a4 4 0 1 0-5.6 5.6L58.3 64 25.2 97.2a4 4 0 1 0 5.6 5.6L64 69.7l33.2 33.1a4 4 0 0 0 5.6-5.6z">
@@ -2167,7 +2164,7 @@ https://www.booking.com/dealspage.html
       </div>
       <div data-et-view="cQZaTaTaBfFdHMTafWe:1">
       </div>
-      <div data-et-view="NAFLSDBJWbVZMYCMQfJTeSOWBZEWaSEO:2 
+      <div data-et-view="NAFLSDBJWbVZMYCMQfJTeSOWBZEWaSEO:2
 ">
       </div>
       <div class="clearfix">
@@ -5879,11 +5876,11 @@ $('.grecaptcha-badge').show().css('visibility', 'visible');
      <div class="footer-offices-copy">
       Whoever you are, whatever you're looking for, we have the perfect place for you. Our 28,980,327 listings
 include 6,542,293 listings of homes, apartments, and other unique places to stay,
-and are located in 153,947 destinations 
-in 226 countries and territories. 
+and are located in 153,947 destinations
+in 226 countries and territories.
 Booking.com B.V. is based in Amsterdam, the Netherlands and is supported internationally by
       <a href="/content/offices.html" rel="nofollow">
-       198 offices 
+       198 offices
 in 70 countries.
       </a>
      </div>
@@ -6711,24 +6708,3 @@ img.src = '/logo?ver=1&sid=&t='+1603081818+1;
 </html>
 
 Process finished with exit code 0
-"""
-
-#url = "https://www.booking.com/"
-#url = "http://dataquestio.github.io/web-scraping-pages/simple.html"
-#page = requests.get(url)
-soup = BeautifulSoup(html_doc, 'html.parser')
-#soup = BeautifulSoup(page.content, 'html.parser')
-#print(soup.prettify())
-#print(soup.title)
-#print(data)
-html = list(soup.children)[12]
-#print(html)
-body = list(html.children)[3]
-#print(body)
-data = list(body.find(id="basiclayout"))
-print(body.find(id="bh-promotion-accommodation-types"))
-
-
-end = 0
-#print(p)
-#print(p.get_text())
