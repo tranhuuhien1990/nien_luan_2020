@@ -3,7 +3,9 @@ GVHD: Lâm Nhựt Khang
 
 Version checklist:
  1. Python 3.7.4
+ 
  py -V
+ 
  2. beautifulsoup4 4.9.3 
  py -m unittest discover -s bs4
 
