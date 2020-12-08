@@ -6709,8 +6709,6 @@ img.src = '/logo?ver=1&sid=&t='+1603081818+1;
   </span>
  </body>
 </html>
-
-Process finished with exit code 0
 """
 
 #url = "https://www.booking.com/"
@@ -6719,14 +6717,14 @@ Process finished with exit code 0
 soup = BeautifulSoup(html_doc, 'html.parser')
 #soup = BeautifulSoup(page.content, 'html.parser')
 #print(soup.prettify())
-#print(soup.title)
+print(soup.title)
 #print(data)
 html = list(soup.children)[12]
 #print(html)
 body = list(html.children)[3]
 #print(body)
 data = list(body.find(id="basiclayout"))
-print(body.find(id="bh-promotion-accommodation-types"))
+#print(body.find(id="bh-promotion-accommodation-types"))
 
 
 end = 0
