@@ -1,0 +1,613 @@
+C:\Users\thhien\PycharmProjects\nien_luan_2020\venv\Scripts\python.exe C:/Users/thhien/PycharmProjects/nien_luan_2020/task/task_1.py
+Hotel name:
+Park Plaza Victoria Amsterdam
+
+Hotel name:
+Pestana Amsterdam Riverside
+
+Hotel name:
+Hotel Mai Amsterdam
+
+Hotel name:
+Park Inn by Radisson Amsterdam City West
+
+Hotel name:
+Monet Garden Hotel Amsterdam
+
+Hotel name:
+Holiday Inn Express Amsterdam - North Riverside
+
+Hotel name:
+Park Plaza Vondelpark Amsterdam
+
+Hotel name:
+Kimpton De Witt Amsterdam
+
+Hotel name:
+Cityden Amsterdam West
+
+Hotel name:
+Hotel Jakarta Amsterdam
+
+Hotel name:
+Quentin England Hotel
+
+Hotel name:
+Hotel Estheréa
+
+Hotel name:
+Olympic Hotel
+
+Hotel name:
+citizenM Amstel Amsterdam
+
+Hotel name:
+Hotel Library Amsterdam
+
+Hotel name:
+The Hoxton, Amsterdam
+
+Hotel name:
+Inntel Hotels Amsterdam Centre
+
+Hotel name:
+Amsterdam Wiechmann Hotel
+
+Hotel name:
+Quentin Zoo hotel
+
+Hotel name:
+Conservatorium Hotel
+
+Hotel name:
+NH Collection Amsterdam Grand Hotel Krasnapolsky
+
+Hotel name:
+Van der Valk Hotel Amsterdam - Amstel
+
+Hotel name:
+Zoku Amsterdam
+
+Hotel name:
+Hotel Okura Amsterdam – The Leading Hotels of the World
+
+Hotel name:
+Hotel Mansion
+
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/233360758.jpg?k=490ea5aafa90fe23e8921cba026a1c191c10e0229c13fb62a3bfe6637d1f0e91&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/122516278.jpg?k=d44c79203b438d41f44f6b4bea321ee0c5ed2796162b450e78902fbc40a3165d&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/258017889.jpg?k=25b3f2d2651650bc4fd98b403f5b1ac035c86fa9a13486baebd77c7555b0bcd9&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/160590097.jpg?k=4914b560022372de041f5e8ec2b257bdbbd318035848852193f0e64e04dd9402&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/121396666.jpg?k=b62d3d796ec164b30c7e67d536574f5de56253383f31ee13d1d94da33075094a&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/266109475.jpg?k=b93985b024ad6c28ec7618de891c91c50fb1f527b2b4a60a098dfb6925c92761&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/257625778.jpg?k=67a9548da45ab1f2e323e894be8503eac8ed8c003a850a3717679a47844ae95b&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/235043348.jpg?k=f06a4482f07ca27419ed5f50b42ac29f9a11217115fbcce1b6c435a992d71a17&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/261039903.jpg?k=29f2d472739d56720c9a3ff983ccf39bbb8572da713f46215b258800776fe707&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/186011901.jpg?k=eef76285158cded8e73f19e34e5f90f187c2202259da68dacb266e81fb7be9ca&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/258168369.jpg?k=0a421d21ad80b26702852342ad31006d0107a18e15e17cebd3a33d80cd0cb275&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/192222259.jpg?k=4d3ed9efeb66a9bdc5c4b691058f5230d9716094150407484ce1ec76d96c4b7b&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/195167969.jpg?k=85cfc6936234900a87d17c492707bf8106ff603a579252203cf4654ff294164c&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/266261966.jpg?k=ee57331c8f32913973bd64bb0a863efcc731bd24261556472f55a5639686d928&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/60434479.jpg?k=02332269594dbda7806321ca99c82d8a2d86479bead15ed3923c55891386fdd8&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/51940896.jpg?k=1dc08c61ad0d5b20d45555fcf36cd869ae22179fad4514dfc5163ccb1825ba61&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/263685523.jpg?k=50c17d33960ac5c6afd9c889d837e55b66394677c5274b3f7eaa6ee9f2a7de4a&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/15712420.jpg?k=1e285464e336d021ec8cc2560594c53b563fa93c02093958d940003fd06a7852&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/258231876.jpg?k=6411a6bf86c31db05492644168a4762e70d578dc1a96a80280b1dc2402c399ce&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/144138201.jpg?k=da0d0ca5867d2e2c8cf4841fcd8ed149c79db4c432089e3613ef1e106c1fc942&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/256419725.jpg?k=35815d8237ccf1cb42d63c9ab2ed97b621470a6da5a1ce3e85e713c5b14150de&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/211946119.jpg?k=54ef3f87da3cb3809415b3936e83ca988723a400c42d536fcbb6a3b6b899060e&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/64768746.jpg?k=b0a62a2eb299aaa31553ffcb9887d54cb5ea112e81a7a942a45aa25f88c84921&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/85884684.jpg?k=988ec8552cf7069661222da3942a0fa5f4e48b68476e5ab0634affaaaef41ce9&o=
+Image link: https://cf.bstatic.com/xdata/images/hotel/square200/25423647.jpg?k=5e377d5beb838ccd7e19c0999b19e662351fad3d7709fb0d060787239258950e&o=
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+1,950 feet from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Oud Zuid, Amsterdam
+
+
+Show on map
+
+
+
+1.5 miles from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+2,150 feet from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Westpoort, Amsterdam
+
+
+Show on map
+
+
+
+2.5 miles from center
+
+
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+0.7 miles from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Amsterdam Noord, Amsterdam
+
+
+Show on map
+
+
+
+1.4 miles from center
+
+
+Address:
+
+ Oud Zuid, Amsterdam
+
+
+Show on map
+
+
+
+1.7 miles from center
+
+
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+1,800 feet from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Bos en Lommer, Amsterdam
+
+
+Show on map
+
+
+
+2.1 miles from center
+
+
+Address:
+
+ Zeeburg, Amsterdam
+
+
+Show on map
+
+
+
+1.3 miles from center
+
+
+Address:
+
+ Oud West, Amsterdam
+
+
+Show on map
+
+
+
+1.1 miles from center
+
+
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+1,500 feet from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Oud Zuid, Amsterdam
+
+
+Show on map
+
+
+
+2.8 miles from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+1 miles from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+3,100 feet from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+1,500 feet from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+1,300 feet from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+2,800 feet from center
+
+
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+0.9 miles from center
+
+
+Address:
+
+ Oud Zuid, Amsterdam
+
+
+Show on map
+
+
+
+1.2 miles from center
+
+
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+350 feet from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Oost, Amsterdam
+
+
+Show on map
+
+
+
+2.9 miles from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+0.9 miles from center
+
+
+
+Subway Access
+
+
+Address:
+
+ Oud Zuid, Amsterdam
+
+
+Show on map
+
+
+
+1.7 miles from center
+
+
+Address:
+
+ Amsterdam City Center, Amsterdam
+
+
+Show on map
+
+
+
+2,800 feet from center
+
+
+
+Subway Access
+
+
+Score Title:  Very Good
+Score Title:  Excellent
+Score Title:  Excellent
+Score Title:  Very Good
+Score Title:  Awesome
+Score Title:  Very Good
+Score Title:  Excellent
+Score Title:  Excellent
+Score Title:  Very Good
+Score Title:  Awesome
+Score Title:  Good
+Score Title:  Awesome
+Score Title:  Excellent
+Score Title:  Awesome
+Score Title:  Very Good
+Score Title:  Awesome
+Score Title:  Very Good
+Score Title:  Excellent
+Score Title:  Very Good
+Score Title:  Awesome
+Score Title:  Excellent
+Score Title:  Excellent
+Score Title:  Awesome
+Score Title:  Excellent
+Score Title:  Very Good
+Score Text:  Very Good
+Score Text:  Excellent
+Score Text:  Excellent
+Score Text:  Very Good
+Score Text:  Awesome
+Score Text:  Very Good
+Score Text:  Excellent
+Score Text:  Excellent
+Score Text:  Very Good
+Score Text:  Awesome
+Score Text:  Good
+Score Text:  Awesome
+Score Text:  Excellent
+Score Text:  Awesome
+Score Text:  Very Good
+Score Text:  Awesome
+Score Text:  Very Good
+Score Text:  Excellent
+Score Text:  Very Good
+Score Text:  Awesome
+Score Text:  Excellent
+Score Text:  Excellent
+Score Text:  Awesome
+Score Text:  Excellent
+Score Text:  Very Good
+Score Badge:  8.4
+Score Badge:  8.6
+Score Badge:  8.7
+Score Badge:  8.3
+Score Badge:  9.0
+Score Badge:  8.5
+Score Badge:  8.8
+Score Badge:  8.9
+Score Badge:  8.5
+Score Badge:  9.0
+Score Badge:  7.7
+Score Badge:  9.2
+Score Badge:  8.6
+Score Badge:  9.1
+Score Badge:  8.0
+Score Badge:  9.0
+Score Badge:  8.2
+Score Badge:  8.6
+Score Badge:  8.2
+Score Badge:  9.1
+Score Badge:  8.8
+Score Badge:  8.8
+Score Badge:  9.0
+Score Badge:  8.9
+Score Badge:  8.1
+Hotel Description:
+Park Plaza Victoria Amsterdam is located in a historical building opposite Amsterdam Central Station. It features an indoor pool area, sauna facilities and brasserie with focus on quality Dutch food.
+
+Hotel Description:
+This luxury 5-star hotel located in a monumental building, the former Town Hall and Archive of the Amstel Community.
+
+Hotel Description:
+Hotel Mai Amsterdam features air-conditioned rooms with satellite flat-screen TV in the Amsterdam City Center district of Amsterdam.
+
+Hotel Description:
+Set in Amsterdam, Park Inn by Radisson Amsterdam City West offers unique accommodations in the VEN mixed-use complex.
+
+Hotel Description:
+Monet Garden Hotel Amsterdam is a boutique hotel and offers modern accommodations in Amsterdam, located next to the canals. It offers air-conditioned rooms with free WiFi throughout the property.
+
+Hotel Description:
+Located in Amsterdam, 1.2 mi from A'DAM Lookout, Holiday Inn Express Amsterdam - North Riverside provides accommodations with a restaurant, free private parking, a bar and a shared lounge.
+
+Hotel Description:
+Park Plaza Vondelpark Amsterdam is located in Amsterdam’s uptown neighborhood Oud-Zuid, just steps from the Vondelpark.
+
+Hotel Description:
+Kimpton De Witt Amsterdam is set in the heart of Amsterdam, 984 feet from Central Station. Guests can enjoy the on-site restaurant and bar. Private parking is available on site.
+
+Hotel Description:
+With garden views, Cityden Amsterdam West is located in Amsterdam and has a restaurant, a 24-hour front desk, bar, garden and terrace.
+
+Hotel Description:
+Hotel Jakarta Amsterdam is a unique sustainable hotel in Amsterdam at the IJ river, at the former location where ships left for Jakarta.
+
+Hotel Description:
+The Quentin England is located opposite the Vondelpark, a  4-minute walk from the lively Leidseplein. The hotel has a courtyard where you may smoke. Guests benefit from free Wi-Fi.
+
+Hotel Description:
+Hotel Estheréa is set along the Singel canal in the center of Amsterdam, only 984 feet from Dam Square. This hotel is in a quiet area and benefits from classically-styled decor with wooden paneling.
+
+Hotel Description:
+Located in Amsterdam and with Vondelpark reachable within 1.7 mi, Olympic Hotel features express check-in and check-out, nonsmoking rooms, a garden, free WiFi and a bar.
+
+Hotel Description:
+Located in Amsterdam and with Royal Theater Carré reachable within 984 feet, citizenM Amstel Amsterdam features express check-in and check-out, allergy-free rooms, a restaurant, free WiFi throughout...
+
+Hotel Description:
+Hotel Library offers accommodations in Amsterdam. Every room is equipped with a flat-screen TV with cable channels. There is a 24-hour front desk at the property.
+
+Hotel Description:
+The Hoxton, Amsterdam, made up of 5 canal houses, offers accommodations in Amsterdam and features free WiFi and a restaurant. The rooms are equipped with a flat-screen TV with cable channels.
+
+Hotel Description:
+Inntel Hotels Amsterdam Center offers rooms with free Wi-Fi and satellite TV, just a 5-minute walk from Amsterdam Central Station. It features a modern atrium breakfast room and a stylish bar.
+
+Hotel Description:
+This quaint hotel offers rooms with antique furniture and free Wi-Fi in a picturesque area of Amsterdam, a 10-minute walk from the Anne Frank House.
+
+Hotel Description:
+Located within 2297 feet of Dutch National Opera & Ballet and a 9-minute walk of Carre Theater, Quentin Zoo hotel offers rooms with air conditioning and a private bathroom in Amsterdam.
+
+Hotel Description:
+In the heart of Amsterdam’s famous museum district, just a short walk from the main attractions and city hotspots, is the Conservatorium Hotel.
+
+Hotel Description:
+This 5-star hotel, in the heart of Amsterdam, is set on the edge of the famous Dam Square and opposite the Royal Palace.
+
+Hotel Description:
+Van der Valk Hotel Amsterdam - Amstel has opened its doors in October 2018. It offers 4-star accommodations in Amsterdam with fitness facilities and a spa and wellness center.
+
+Hotel Description:
+Located within 1.1 mi of Amsterdam Central Station, Zoku Amsterdam features private apartment-style rooms including free high-speed WiFi, a fully-equipped kitchen, large living/office spaces and a...
+
+Hotel Description:
+Hotel Okura Amsterdam is a luxurious 5 star superior hotel located in trendy district De Pijp. The rooms and suites overlook the Amsterdam skyline for unparalleled city views.
+
+Hotel Description:
+The Hotel Mansion is in Amsterdam, just half a mile from Central Station and just under half a mile from the NEMO Science Center. Free Wi-Fi access is available.
+
+
+Process finished with exit code 0
