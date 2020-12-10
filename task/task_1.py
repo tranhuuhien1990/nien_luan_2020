@@ -5,18 +5,34 @@ url = "https://www.booking.com/searchresults.html?label=gen173nr-1FCAEoggI46AdIM
 #url = "http://dataquestio.github.io/web-scraping-pages/simple.html"
 page = requests.get(url)
 soup = BeautifulSoup(page.content, 'html.parser')
-#print(soup.prettify())
-#print(soup.title)
-#print(data)
-#html = list(soup.children)
-items = soup.findAll("span", {"class": "sr-hotel__name"})
-#print(items[0].getText())
-for i in items:
-    print(i.getText())
-#body = list(html.children)[3]
-#print(body)
-#data = list(body.find(id="basiclayout"))
-#print(body.find(id="bh-promotion-accommodation-types"))
+
+hotelNames = soup.findAll("span", {"class": "sr-hotel__name"})
+for h in hotelNames:
+    print("Hotel name: {0:s}".format(h.getText()))
+
+imageLinks = soup.findAll("img", {"class": "hotel_image"})
+for i in imageLinks:
+    print("Image link: {0:s}".format(i["src"]))
+
+address = soup.findAll("div", {"class": "sr_card_address_line"})
+for a in address:
+    print("Address: {0:s}".format(a.getText()))
+
+score_title = soup.findAll("div", {"class": "bui-review-score__title"})
+for st in score_title:
+    print("Score Title: {0:s}".format(st.getText()))
+
+score_text = soup.findAll("div", {"class": "bui-review-score__text"})
+for ste in score_title:
+    print("Score Text: {0:s}".format(ste.getText()))
+
+score_badge = soup.findAll("div", {"class": "bui-review-score__badge"})
+for sb in score_badge:
+    print("Score Badge: {0:s}".format(sb.getText()))
+
+hotel_desc = soup.findAll("div", {"class": "hotel_desc"})
+for hd in hotel_desc:
+    print("Hotel Description: {0:s}".format(hd.getText()))
 
 
 end = 0
