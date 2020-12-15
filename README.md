@@ -21,7 +21,6 @@
 4. [scrape-property-data-from-booking-com-using-google-chrome](https://www.scrapehero.com/scrape-property-data-from-booking-com-using-google-chrome/)
 5. [Markdown Editor Preview](https://jbt.github.io/markdown-editor/)
 6. [Markdown Wiki Writing](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-<hr/>
 7. [RNN LSTM là gì?](https://dominhhai.github.io/vi/2017/10/what-is-lstm/)
 
 ###### Target: 
