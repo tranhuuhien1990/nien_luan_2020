@@ -22,6 +22,8 @@
 5. [Markdown Editor Preview](https://jbt.github.io/markdown-editor/)
 6. [Markdown Wiki Writing](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 7. [RNN LSTM là gì?](https://dominhhai.github.io/vi/2017/10/what-is-lstm/)
+8. https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+9. https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
 
 ###### Target: 
 1. [www.booking.com](https://www.booking.com/)
