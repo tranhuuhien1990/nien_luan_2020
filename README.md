@@ -24,6 +24,8 @@
 7. [RNN LSTM là gì?](https://dominhhai.github.io/vi/2017/10/what-is-lstm/)
 8. https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
 9. https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+10. https://en.wikipedia.org/wiki/Time_series
+11. https://en.wikipedia.org/wiki/Long_short-term_memory
 
 ###### Target: 
 1. [www.booking.com](https://www.booking.com/)
