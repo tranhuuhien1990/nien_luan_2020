@@ -21,6 +21,12 @@
 4. [scrape-property-data-from-booking-com-using-google-chrome](https://www.scrapehero.com/scrape-property-data-from-booking-com-using-google-chrome/)
 5. [Markdown Editor Preview](https://jbt.github.io/markdown-editor/)
 6. [Markdown Wiki Writing](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+7. [RNN LSTM là gì?](https://dominhhai.github.io/vi/2017/10/what-is-lstm/)
+8. https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+9. https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+10. https://en.wikipedia.org/wiki/Time_series
+11. https://en.wikipedia.org/wiki/Long_short-term_memory
+12. https://viblo.asia/p/ung-dung-deep-learning-xay-dung-bo-dich-tieng-viet-moi-ve-tieng-viet-cu-RQqKLgq057z
 
 ###### Target: 
 1. [www.booking.com](https://www.booking.com/)
