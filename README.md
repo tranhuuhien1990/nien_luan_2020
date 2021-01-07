@@ -27,6 +27,7 @@
 10. https://en.wikipedia.org/wiki/Time_series
 11. https://en.wikipedia.org/wiki/Long_short-term_memory
 12. https://viblo.asia/p/ung-dung-deep-learning-xay-dung-bo-dich-tieng-viet-moi-ve-tieng-viet-cu-RQqKLgq057z
+13. https://www.w3schools.com/python/python_ml_linear_regression.asp
 
 ###### Target: 
 1. [www.booking.com](https://www.booking.com/)
